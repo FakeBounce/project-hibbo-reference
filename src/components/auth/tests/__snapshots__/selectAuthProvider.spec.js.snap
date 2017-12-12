@@ -1,0 +1,792 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectAuthProvider should handle error from fb 1`] = `
+<View
+  collapsable={undefined}
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+      "bottom": 0,
+      "flexDirection": "row",
+      "height": 300,
+      "opacity": 1,
+      "position": "absolute",
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "elevation": 10,
+          "position": "absolute",
+          "zIndex": 10,
+        },
+        Object {
+          "left": 50,
+          "top": -55,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderRadius": 100,
+            "height": 75,
+            "justifyContent": "center",
+            "width": 275,
+          },
+          Object {
+            "backgroundColor": "#FF7171",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginHorizontal": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={undefined}
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "backgroundColor": "transparent",
+                "color": "#EFEFEF",
+                "fontFamily": "Circular-Std-Book",
+              }
+            }
+          >
+            Error
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderBottomWidth": 50,
+              "borderLeftColor": "transparent",
+              "borderLeftWidth": 20,
+              "borderRightColor": "transparent",
+              "borderRightWidth": 20,
+              "borderStyle": "solid",
+              "elevation": -1,
+              "height": 0,
+              "position": "absolute",
+              "width": 0,
+              "zIndex": -1,
+            },
+            Object {
+              "bottom": -20,
+              "left": 25,
+              "transform": Array [
+                Object {
+                  "rotate": "160deg",
+                },
+              ],
+            },
+            Object {
+              "borderBottomColor": "#FF7171",
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 17,
+            "marginRight": 15,
+            "width": 9,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#4100C0",
+            "fontSize": 19,
+          }
+        }
+      >
+        Facebook connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 19,
+            "marginRight": 15,
+            "width": 19,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#D5492F",
+            "fontSize": 19,
+          }
+        }
+      >
+        Google connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 15,
+            "marginRight": 15,
+            "width": 21,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#16EBC5",
+            "fontSize": 19,
+          }
+        }
+      >
+        Email connect
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`SelectAuthProvider should handle error from google 1`] = `
+<View
+  collapsable={undefined}
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+      "bottom": 0,
+      "flexDirection": "row",
+      "height": 300,
+      "opacity": 1,
+      "position": "absolute",
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "elevation": 10,
+          "position": "absolute",
+          "zIndex": 10,
+        },
+        Object {
+          "left": 50,
+          "top": -55,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderRadius": 100,
+            "height": 75,
+            "justifyContent": "center",
+            "width": 275,
+          },
+          Object {
+            "backgroundColor": "#FF7171",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "flex-start",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginHorizontal": 10,
+            }
+          }
+        >
+          <Image
+            source={1}
+            style={undefined}
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "justifyContent": "center",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "backgroundColor": "transparent",
+                "color": "#EFEFEF",
+                "fontFamily": "Circular-Std-Book",
+              }
+            }
+          >
+            Error
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "borderBottomWidth": 50,
+              "borderLeftColor": "transparent",
+              "borderLeftWidth": 20,
+              "borderRightColor": "transparent",
+              "borderRightWidth": 20,
+              "borderStyle": "solid",
+              "elevation": -1,
+              "height": 0,
+              "position": "absolute",
+              "width": 0,
+              "zIndex": -1,
+            },
+            Object {
+              "bottom": -20,
+              "left": 25,
+              "transform": Array [
+                Object {
+                  "rotate": "160deg",
+                },
+              ],
+            },
+            Object {
+              "borderBottomColor": "#FF7171",
+            },
+          ]
+        }
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 17,
+            "marginRight": 15,
+            "width": 9,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#4100C0",
+            "fontSize": 19,
+          }
+        }
+      >
+        Facebook connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 19,
+            "marginRight": 15,
+            "width": 19,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#D5492F",
+            "fontSize": 19,
+          }
+        }
+      >
+        Google connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 15,
+            "marginRight": 15,
+            "width": 21,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#16EBC5",
+            "fontSize": 19,
+          }
+        }
+      >
+        Email connect
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`SelectAuthProvider should render the component 1`] = `
+<View
+  collapsable={undefined}
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+      "bottom": 0,
+      "flexDirection": "row",
+      "height": 300,
+      "opacity": 1,
+      "position": "absolute",
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 17,
+            "marginRight": 15,
+            "width": 9,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#4100C0",
+            "fontSize": 19,
+          }
+        }
+      >
+        Facebook connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 19,
+            "marginRight": 15,
+            "width": 19,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#D5492F",
+            "fontSize": 19,
+          }
+        }
+      >
+        Google connect
+      </Text>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "opacity": 1,
+          "width": 750,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 15,
+            "marginRight": 15,
+            "width": 21,
+          }
+        }
+      />
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#16EBC5",
+            "fontSize": 19,
+          }
+        }
+      >
+        Email connect
+      </Text>
+    </View>
+  </View>
+</View>
+`;

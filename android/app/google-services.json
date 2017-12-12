@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1257920125",
+    "project_id": "monimalz-171209"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1257920125:android:016544c552c3a158",
+        "android_client_info": {
+          "package_name": "com.monimalz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1257920125-8uootapajjlk7e52prv582hv0krfanhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monimalz",
+            "certificate_hash": "844de8cc96f7988c91a955afbb47049081745b94"
+          }
+        },
+        {
+          "client_id": "1257920125-n483fqb9v166kaiatfu8jatano4csdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGqeoEWtpsldpN0sIipDQTO1nzz__fKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

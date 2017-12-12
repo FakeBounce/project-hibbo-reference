@@ -1,0 +1,1665 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation should render the component for adult 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "borderRadius": 10,
+        "shadowColor": "transparent",
+        "shadowOpacity": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={undefined}
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Transfer
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Money Pot
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Goals
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Messages
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Shop
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Settings
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        My Monimalz
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Navigation should render the component for children 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "borderRadius": 10,
+        "shadowColor": "transparent",
+        "shadowOpacity": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={undefined}
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Transfer
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Money Pot
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Goals
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Messages
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Shop
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Settings
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Navigation should render the container 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "borderRadius": 10,
+        "shadowColor": "transparent",
+        "shadowOpacity": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={undefined}
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Transfer
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Money Pot
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Goals
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Messages
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Shop
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      hitSlop={undefined}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={Object {}}
+      testID={undefined}
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "height": 62,
+                "opacity": 1,
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                ],
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  undefined,
+                  Array [
+                    undefined,
+                    undefined,
+                  ],
+                ]
+              }
+            >
+              Settings
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+          ]
+        }
+      >
+        <View
+          collapsable={undefined}
+          style={
+            Object {
+              "backgroundColor": "#303030",
+              "borderRadius": 70,
+              "height": 70,
+              "opacity": 0,
+              "transform": Array [
+                Object {
+                  "scale": 0.4,
+                },
+              ],
+              "width": 70,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        My Monimalz
+      </Text>
+    </View>
+  </View>
+</View>
+`;

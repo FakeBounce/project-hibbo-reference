@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DecorationsMonkeyFront should render the component 1`] = `
+<View
+  collapsable={undefined}
+  style={
+    Object {
+      "transform": Array [
+        Object {
+          "translateX": 0,
+        },
+      ],
+      "zIndex": 2,
+    }
+  }
+>
+  <Image
+    collapsable={undefined}
+    source={1}
+    style={
+      Object {
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  />
+</View>
+`;

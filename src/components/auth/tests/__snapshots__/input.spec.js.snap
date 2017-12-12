@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should render the component 1`] = `
+<View
+  style={undefined}
+>
+  <TextInput
+    autoCapitalize="none"
+    autoCorrect={false}
+    autoFocus={true}
+    keyboardType="default"
+    onChangeText={[Function]}
+    onSubmitEditing={[Function]}
+    placeholder=""
+    placeholderTextColor={undefined}
+    returnKeyType="next"
+    secureTextEntry={false}
+    style={
+      Array [
+        undefined,
+        Object {
+          "color": undefined,
+        },
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value={undefined}
+  />
+</View>
+`;

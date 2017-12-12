@@ -1,0 +1,244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form should render the component 1`] = `
+<View
+  style={undefined}
+>
+  <View>
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        Card holder
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "width": 690,
+          },
+        ]
+      }
+    >
+      <TextInput
+        autoCapitalize="words"
+        autoCorrect={false}
+        autoFocus={false}
+        keyboardType="numeric"
+        maxLength={999}
+        onChangeText={[Function]}
+        onSubmitEditing={[Function]}
+        placeholder=""
+        placeholderTextColor="#979797"
+        returnKeyType="next"
+        style={
+          Array [
+            undefined,
+            Object {
+              "color": "#413D3D",
+              "width": 690,
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>
+  <View>
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        Card number
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+          Object {
+            "width": 690,
+          },
+        ]
+      }
+    >
+      <TextInput
+        autoCapitalize="words"
+        autoCorrect={false}
+        autoFocus={false}
+        keyboardType="numeric"
+        maxLength={16}
+        onChangeText={[Function]}
+        onSubmitEditing={[Function]}
+        placeholder=""
+        placeholderTextColor="#979797"
+        returnKeyType="next"
+        style={
+          Array [
+            undefined,
+            Object {
+              "color": "#413D3D",
+              "width": 690,
+            },
+          ]
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+  </View>
+  <View>
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        Expire at
+      </Text>
+    </View>
+    <View
+      style={undefined}
+    >
+      <View
+        style={
+          Array [
+            undefined,
+            Object {
+              "width": 50,
+            },
+          ]
+        }
+      >
+        <TextInput
+          autoCapitalize="words"
+          autoCorrect={false}
+          autoFocus={false}
+          keyboardType="numeric"
+          maxLength={2}
+          onChangeText={[Function]}
+          onSubmitEditing={[Function]}
+          placeholder=""
+          placeholderTextColor="#979797"
+          returnKeyType="next"
+          style={
+            Array [
+              undefined,
+              Object {
+                "color": "#413D3D",
+                "width": 50,
+              },
+            ]
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            Object {
+              "width": 50,
+            },
+          ]
+        }
+      >
+        <TextInput
+          autoCapitalize="words"
+          autoCorrect={false}
+          autoFocus={false}
+          keyboardType="numeric"
+          maxLength={2}
+          onChangeText={[Function]}
+          onSubmitEditing={[Function]}
+          placeholder=""
+          placeholderTextColor="#979797"
+          returnKeyType="next"
+          style={
+            Array [
+              undefined,
+              Object {
+                "color": "#413D3D",
+                "width": 50,
+              },
+            ]
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+  </View>
+  <View>
+    <View>
+      <View
+        style={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          Cryptogram
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            undefined,
+            Object {
+              "width": 70,
+            },
+          ]
+        }
+      >
+        <TextInput
+          autoCapitalize="words"
+          autoCorrect={false}
+          autoFocus={false}
+          keyboardType="numeric"
+          maxLength={3}
+          onChangeText={[Function]}
+          onSubmitEditing={[Function]}
+          placeholder=""
+          placeholderTextColor="#979797"
+          returnKeyType="next"
+          style={
+            Array [
+              undefined,
+              Object {
+                "color": "#413D3D",
+                "width": 70,
+              },
+            ]
+          }
+          underlineColorAndroid="transparent"
+          value=""
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

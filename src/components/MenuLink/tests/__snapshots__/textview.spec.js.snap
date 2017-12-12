@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextView should render the component for ipad 1`] = `
+<View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "height": 100,
+        "opacity": 1,
+        "transform": Array [
+          Object {
+            "scale": 1,
+          },
+        ],
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          undefined,
+          Object {},
+        ]
+      }
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`TextView should render the component for iphone 1`] = `
+<View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "height": 62,
+        "opacity": 1,
+        "transform": Array [
+          Object {
+            "scale": 1,
+          },
+        ],
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          undefined,
+          Object {},
+        ]
+      }
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;

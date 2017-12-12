@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormDate should render the component 1`] = `
+<View
+  style={undefined}
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "width": 50,
+        },
+      ]
+    }
+  >
+    <TextInput
+      autoCapitalize="words"
+      autoCorrect={false}
+      autoFocus={false}
+      keyboardType="numeric"
+      maxLength={3}
+      onChangeText={[Function]}
+      onSubmitEditing={[Function]}
+      placeholder="Some label"
+      placeholderTextColor="#979797"
+      returnKeyType="next"
+      style={
+        Array [
+          undefined,
+          Object {
+            "color": "#413D3D",
+            "width": 50,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "width": 50,
+        },
+      ]
+    }
+  >
+    <TextInput
+      autoCapitalize="words"
+      autoCorrect={false}
+      autoFocus={false}
+      keyboardType="numeric"
+      maxLength={3}
+      onChangeText={[Function]}
+      onSubmitEditing={[Function]}
+      placeholder="Some label"
+      placeholderTextColor="#979797"
+      returnKeyType="next"
+      style={
+        Array [
+          undefined,
+          Object {
+            "color": "#413D3D",
+            "width": 50,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+  </View>
+</View>
+`;

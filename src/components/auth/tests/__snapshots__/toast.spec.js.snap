@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toast should render the component with bottom position 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "backgroundColor": "#FF7171",
+      },
+    ]
+  }
+>
+  <View
+    style={undefined}
+  >
+    <View
+      style={undefined}
+    >
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        Some label
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+        Object {
+          "borderBottomColor": "#FF7171",
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Toast should render the component with top position 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "backgroundColor": "#FF7171",
+      },
+    ]
+  }
+>
+  <View
+    style={undefined}
+  >
+    <View
+      style={undefined}
+    >
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        Some label
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        undefined,
+        Object {
+          "borderBottomColor": "#FF7171",
+        },
+      ]
+    }
+  />
+</View>
+`;

@@ -1,0 +1,341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuLink should render the component for ipad 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <View>
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "height": 100,
+            "opacity": 1,
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              undefined,
+              Object {},
+            ]
+          }
+        >
+          test
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`MenuLink should render the component for iphone 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <View>
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "height": 62,
+            "opacity": 1,
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              undefined,
+              Object {},
+            ]
+          }
+        >
+          test
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`MenuLink should render the container for ipad 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <View>
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "height": 100,
+            "opacity": 1,
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              undefined,
+              Object {},
+            ]
+          }
+        >
+          test
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`MenuLink should render the container for iphone 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <View>
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "height": 62,
+            "opacity": 1,
+            "transform": Array [
+              Object {
+                "scale": 1,
+              },
+            ],
+          }
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              undefined,
+              Object {},
+            ]
+          }
+        >
+          test
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;

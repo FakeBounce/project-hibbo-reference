@@ -1,0 +1,759 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PadNumber should render the component 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      0,
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        1
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        2
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        3
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        4
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        5
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        6
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        7
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        8
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        9
+      </Text>
+      <Image
+        source={1}
+        style={undefined}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Image
+        source={1}
+        style={Object {}}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        0
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+    testID={undefined}
+  >
+    <View
+      style={
+        Array [
+          Object {},
+        ]
+      }
+    >
+      <Image
+        source={1}
+        style={Object {}}
+      />
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+        ]
+      }
+    >
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#303030",
+            "borderRadius": 70,
+            "height": 70,
+            "opacity": 0,
+            "transform": Array [
+              Object {
+                "scale": 0.4,
+              },
+            ],
+            "width": 70,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

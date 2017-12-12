@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should have a value converted to string if props value is 0 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "width": 300,
+      },
+    ]
+  }
+>
+  <TextInput
+    autoCapitalize="words"
+    autoCorrect={false}
+    autoFocus={false}
+    keyboardType="numeric"
+    maxLength={3}
+    onChangeText={[Function]}
+    onSubmitEditing={[Function]}
+    placeholder=""
+    placeholderTextColor="#979797"
+    returnKeyType="next"
+    style={
+      Array [
+        undefined,
+        Object {
+          "color": "#413D3D",
+          "width": 300,
+        },
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;
+
+exports[`Input should render the component 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "width": 300,
+      },
+    ]
+  }
+>
+  <TextInput
+    autoCapitalize="words"
+    autoCorrect={false}
+    autoFocus={false}
+    keyboardType="numeric"
+    maxLength={3}
+    onChangeText={[Function]}
+    onSubmitEditing={[Function]}
+    placeholder=""
+    placeholderTextColor="#979797"
+    returnKeyType="next"
+    style={
+      Array [
+        undefined,
+        Object {
+          "color": "#413D3D",
+          "width": 300,
+        },
+      ]
+    }
+    underlineColorAndroid="transparent"
+    value=""
+  />
+</View>
+`;

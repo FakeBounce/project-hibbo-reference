@@ -1,0 +1,557 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Settings component should render the component 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {},
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "rgba(255, 255, 255, 1)",
+        "height": 90,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Image
+        source={1}
+      />
+    </View>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={undefined}
+    >
+      Settings
+    </Text>
+  </View>
+  <RCTScrollView
+    contentContainerStyle={undefined}
+    onScroll={[Function]}
+    scrollEventThrottle={16}
+    showsVerticalScrollIndicator={false}
+  >
+    <View>
+      <View
+        style={undefined}
+      >
+        <View
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          collapsable={undefined}
+          hitSlop={undefined}
+          isTVSelectable={true}
+          nativeID={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID={undefined}
+          tvParallaxProperties={undefined}
+        >
+          <View
+            style={undefined}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={undefined}
+            >
+              My profile
+            </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              disabled={false}
+              ellipsizeMode="tail"
+              style={undefined}
+            >
+              Antoine
+            </Text>
+          </View>
+          <Image
+            source={1}
+          />
+        </View>
+      </View>
+      <View
+        style={undefined}
+      >
+        <View
+          style={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            My piggy banks
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            Marianne
+          </Text>
+        </View>
+        <View
+          style={undefined}
+        >
+          <RCTScrollView
+            decelerationRate={0}
+            horizontal={true}
+            onScroll={[Function]}
+            scrollEventThrottle={3}
+            showsHorizontalScrollIndicator={false}
+            snapToAlignment="start"
+            snapToInterval={750}
+            style={undefined}
+          >
+            <View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+            </View>
+          </RCTScrollView>
+          <View
+            style={undefined}
+          >
+            <View
+              style={
+                Array [
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+            <View
+              style={undefined}
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+            <View
+              style={undefined}
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={undefined}
+      >
+        <View
+          style={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            My payment means
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            Visa
+          </Text>
+        </View>
+        <View
+          style={undefined}
+        >
+          <RCTScrollView
+            decelerationRate={0}
+            horizontal={true}
+            onScroll={[Function]}
+            scrollEventThrottle={3}
+            showsHorizontalScrollIndicator={false}
+            snapToAlignment="start"
+            snapToInterval={750}
+            style={undefined}
+          >
+            <View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 750,
+                    },
+                  ]
+                }
+              >
+                <View
+                  accessibilityComponentType={undefined}
+                  accessibilityLabel={undefined}
+                  accessibilityTraits={undefined}
+                  accessible={true}
+                  collapsable={undefined}
+                  hitSlop={undefined}
+                  isTVSelectable={true}
+                  nativeID={undefined}
+                  onLayout={undefined}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "opacity": 1,
+                    }
+                  }
+                  testID={undefined}
+                  tvParallaxProperties={undefined}
+                >
+                  <Image
+                    source={1}
+                  />
+                </View>
+              </View>
+            </View>
+          </RCTScrollView>
+          <View
+            style={undefined}
+          >
+            <View
+              style={
+                Array [
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+            <View
+              style={undefined}
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+            <View
+              style={undefined}
+            >
+              <View
+                style={undefined}
+              />
+            </View>
+          </View>
+        </View>
+      </View>
+      <View
+        style={undefined}
+      >
+        <View
+          style={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            My orders
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            3 purchases ongoing
+          </Text>
+        </View>
+        <View
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          collapsable={undefined}
+          hitSlop={undefined}
+          isTVSelectable={true}
+          nativeID={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID={undefined}
+          tvParallaxProperties={undefined}
+        >
+          <Image
+            source={1}
+          />
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

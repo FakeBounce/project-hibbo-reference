@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormRow should render the component 1`] = `
+<View>
+  <View
+    style={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={undefined}
+    >
+      Some label
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "width": 300,
+        },
+      ]
+    }
+  >
+    <TextInput
+      autoCapitalize="words"
+      autoCorrect={false}
+      autoFocus={false}
+      keyboardType="numeric"
+      maxLength={3}
+      onChangeText={[Function]}
+      onSubmitEditing={[Function]}
+      placeholder="Some label"
+      placeholderTextColor="#979797"
+      returnKeyType="next"
+      style={
+        Array [
+          undefined,
+          Object {
+            "color": "#413D3D",
+            "width": 300,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+  </View>
+</View>
+`;

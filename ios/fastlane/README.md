@@ -1,0 +1,78 @@
+fastlane documentation
+================
+# Installation
+
+Make sure you have the latest version of the Xcode command line tools installed:
+
+```
+xcode-select --install
+```
+
+## Choose your installation method:
+
+<table width="100%" >
+<tr>
+<th width="33%"><a href="http://brew.sh">Homebrew</a></th>
+<th width="33%">Installer Script</th>
+<th width="33%">RubyGems</th>
+</tr>
+<tr>
+<td width="33%" align="center">macOS</td>
+<td width="33%" align="center">macOS</td>
+<td width="33%" align="center">macOS or Linux with Ruby 2.0.0 or above</td>
+</tr>
+<tr>
+<td width="33%"><code>brew cask install fastlane</code></td>
+<td width="33%"><a href="https://download.fastlane.tools">Download the zip file</a>. Then double click on the <code>install</code> script (or run it in a terminal window).</td>
+<td width="33%"><code>sudo gem install fastlane -NV</code></td>
+</tr>
+</table>
+
+# Available Actions
+## iOS
+### ios addTesters
+```
+fastlane ios addTesters
+```
+Add new testers devices
+### ios buildAndDeploy
+```
+fastlane ios buildAndDeploy
+```
+Build & deploy
+### ios incrementBuild
+```
+fastlane ios incrementBuild
+```
+Increment build number
+### ios refreshDsyms
+```
+fastlane ios refreshDsyms
+```
+Refresh dsym on crashlytics
+### ios pushTag
+```
+fastlane ios pushTag
+```
+Push git tag
+### ios betaCI
+```
+fastlane ios betaCI
+```
+Submit a new Beta Build for the CI
+### ios beta
+```
+fastlane ios beta
+```
+Submit a new Beta Build manually
+### ios betaTestFlight
+```
+fastlane ios betaTestFlight
+```
+Submit a new Beta Build manually to TestFlight
+
+----
+
+This README.md is auto-generated and will be re-generated every time [fastlane](https://fastlane.tools) is run.
+More information about fastlane can be found on [fastlane.tools](https://fastlane.tools).
+The documentation of fastlane can be found on [docs.fastlane.tools](https://docs.fastlane.tools).

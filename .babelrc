@@ -1,0 +1,30 @@
+{
+  "presets": ["react-native"],
+  "env": {
+    "production": {
+      "plugins": ["transform-remove-console"]
+    }
+  },
+  "plugins": [
+    "transform-inline-environment-variables",
+    "transform-decorators-legacy",
+    [
+      "module-resolver",
+      {
+        "root": ["./src"],
+        "alias": {
+          "assets": "./src/assets",
+          "actionTypes": "./src/redux/actionTypes",
+          "actions": "./src/redux/actions",
+          "reducers": "./src/redux/reducers",
+          "sagas": "./src/redux/sagas",
+          "epic": "./src/redux/epic",
+          "utils": "./src/utils",
+          "shared": "./src/components/shared",
+          "styles": "./src/styles",
+          "styledComponents": "./src/styles/styledComponents"
+        }
+      }
+    ]
+  ]
+}

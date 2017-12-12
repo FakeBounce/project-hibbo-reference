@@ -1,0 +1,455 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardScanner should render the component 1`] = `
+<View
+  keyboardVerticalOffset={0}
+  onLayout={[Function]}
+  style={undefined}
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "bottom": 0,
+        },
+      ]
+    }
+  >
+    <View
+      style={undefined}
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Image
+          source={1}
+          style={undefined}
+        />
+      </View>
+    </View>
+    <RCTScrollView
+      showsVerticalScrollIndicator={false}
+      style={undefined}
+    >
+      <View>
+        <View
+          style={undefined}
+        >
+          <View
+            style={undefined}
+          >
+            <Image
+              source={1}
+              style={undefined}
+            />
+            <Image
+              source={1}
+              style={undefined}
+            />
+            <Image
+              source={1}
+              style={undefined}
+            />
+            <Image
+              source={null}
+              style={undefined}
+            />
+            <View
+              style={undefined}
+            >
+              <View
+                style={undefined}
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  
+                </Text>
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  
+                </Text>
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  
+                </Text>
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  
+                </Text>
+              </View>
+              <View
+                style={undefined}
+              >
+                <Image
+                  source={1}
+                  style={undefined}
+                />
+                <View
+                  style={undefined}
+                >
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={undefined}
+                  >
+                    EXPIRE
+                  </Text>
+                  <Text
+                    accessible={true}
+                    allowFontScaling={true}
+                    disabled={false}
+                    ellipsizeMode="tail"
+                    style={undefined}
+                  >
+                    AT END
+                  </Text>
+                </View>
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  
+                  /
+                  
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={undefined}
+        >
+          <View>
+            <View
+              style={undefined}
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                disabled={false}
+                ellipsizeMode="tail"
+                style={undefined}
+              >
+                Card holder
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  undefined,
+                  Object {
+                    "width": 690,
+                  },
+                ]
+              }
+            >
+              <TextInput
+                autoCapitalize="words"
+                autoCorrect={false}
+                autoFocus={false}
+                keyboardType="default"
+                maxLength={999}
+                onChangeText={[Function]}
+                onSubmitEditing={[Function]}
+                placeholder="John Doe"
+                placeholderTextColor="#979797"
+                returnKeyType="next"
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "color": "#413D3D",
+                      "width": 690,
+                    },
+                  ]
+                }
+                underlineColorAndroid="transparent"
+                value=""
+              />
+            </View>
+          </View>
+          <View>
+            <View
+              style={undefined}
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                disabled={false}
+                ellipsizeMode="tail"
+                style={undefined}
+              >
+                Card number
+              </Text>
+            </View>
+            <View
+              style={
+                Array [
+                  undefined,
+                  Object {
+                    "width": 690,
+                  },
+                ]
+              }
+            >
+              <TextInput
+                autoCapitalize="words"
+                autoCorrect={false}
+                autoFocus={false}
+                keyboardType="numeric"
+                maxLength={16}
+                onChangeText={[Function]}
+                onSubmitEditing={[Function]}
+                placeholder="Card number"
+                placeholderTextColor="#979797"
+                returnKeyType="next"
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "color": "#413D3D",
+                      "width": 690,
+                    },
+                  ]
+                }
+                underlineColorAndroid="transparent"
+                value=""
+              />
+            </View>
+          </View>
+          <View>
+            <View
+              style={undefined}
+            >
+              <Text
+                accessible={true}
+                allowFontScaling={true}
+                disabled={false}
+                ellipsizeMode="tail"
+                style={undefined}
+              >
+                Expire at
+              </Text>
+            </View>
+            <View
+              style={undefined}
+            >
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 50,
+                    },
+                  ]
+                }
+              >
+                <TextInput
+                  autoCapitalize="words"
+                  autoCorrect={false}
+                  autoFocus={false}
+                  keyboardType="numeric"
+                  maxLength={2}
+                  onChangeText={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="MM"
+                  placeholderTextColor="#979797"
+                  returnKeyType="next"
+                  style={
+                    Array [
+                      undefined,
+                      Object {
+                        "color": "#413D3D",
+                        "width": 50,
+                      },
+                    ]
+                  }
+                  underlineColorAndroid="transparent"
+                  value=""
+                />
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 50,
+                    },
+                  ]
+                }
+              >
+                <TextInput
+                  autoCapitalize="words"
+                  autoCorrect={false}
+                  autoFocus={false}
+                  keyboardType="numeric"
+                  maxLength={2}
+                  onChangeText={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="YY"
+                  placeholderTextColor="#979797"
+                  returnKeyType="next"
+                  style={
+                    Array [
+                      undefined,
+                      Object {
+                        "color": "#413D3D",
+                        "width": 50,
+                      },
+                    ]
+                  }
+                  underlineColorAndroid="transparent"
+                  value=""
+                />
+              </View>
+            </View>
+          </View>
+          <View>
+            <View>
+              <View
+                style={undefined}
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  disabled={false}
+                  ellipsizeMode="tail"
+                  style={undefined}
+                >
+                  Cryptogram
+                </Text>
+              </View>
+              <View
+                style={
+                  Array [
+                    undefined,
+                    Object {
+                      "width": 70,
+                    },
+                  ]
+                }
+              >
+                <TextInput
+                  autoCapitalize="words"
+                  autoCorrect={false}
+                  autoFocus={false}
+                  keyboardType="numeric"
+                  maxLength={3}
+                  onChangeText={[Function]}
+                  onSubmitEditing={[Function]}
+                  placeholder="***"
+                  placeholderTextColor="#979797"
+                  returnKeyType="next"
+                  style={
+                    Array [
+                      undefined,
+                      Object {
+                        "color": "#413D3D",
+                        "width": 70,
+                      },
+                    ]
+                  }
+                  underlineColorAndroid="transparent"
+                  value=""
+                />
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          />
+        </View>
+        <View
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          collapsable={undefined}
+          hitSlop={undefined}
+          isTVSelectable={true}
+          nativeID={undefined}
+          onLayout={undefined}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+          testID={undefined}
+          tvParallaxProperties={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            disabled={false}
+            ellipsizeMode="tail"
+            style={undefined}
+          >
+            ok
+          </Text>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

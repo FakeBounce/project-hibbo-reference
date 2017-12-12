@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthProviderErrors should render the component 1`] = `null`;
+
+exports[`AuthProviderErrors should render the component on fb error 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "left": 50,
+        "top": -55,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "backgroundColor": "#FF7171",
+        },
+      ]
+    }
+  >
+    <View
+      style={undefined}
+    >
+      <View
+        style={undefined}
+      >
+        <Image
+          source={1}
+          style={undefined}
+        />
+      </View>
+      <View
+        style={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          Error
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+          undefined,
+          Object {
+            "borderBottomColor": "#FF7171",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`AuthProviderErrors should render the component on google error 1`] = `
+<View
+  style={
+    Array [
+      undefined,
+      Object {
+        "left": 50,
+        "top": -55,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        Object {
+          "backgroundColor": "#FF7171",
+        },
+      ]
+    }
+  >
+    <View
+      style={undefined}
+    >
+      <View
+        style={undefined}
+      >
+        <Image
+          source={1}
+          style={undefined}
+        />
+      </View>
+      <View
+        style={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          Error
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          undefined,
+          undefined,
+          Object {
+            "borderBottomColor": "#FF7171",
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar should render the component 1`] = `
+<View
+  style={undefined}
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "width": 100,
+      }
+    }
+  />
+</View>
+`;

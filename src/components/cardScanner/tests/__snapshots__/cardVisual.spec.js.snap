@@ -1,0 +1,217 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardVisual should render the component 1`] = `
+<View
+  style={undefined}
+>
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={null}
+    style={undefined}
+  />
+  <View
+    style={undefined}
+  >
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={undefined}
+    >
+      <Image
+        source={1}
+        style={undefined}
+      />
+      <View
+        style={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          EXPIRE
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          AT END
+        </Text>
+      </View>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+        /
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`CardVisual should render the component for a visa card 1`] = `
+<View
+  style={undefined}
+>
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <Image
+    source={1}
+    style={undefined}
+  />
+  <View
+    style={undefined}
+  >
+    <View
+      style={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={undefined}
+    >
+      <Image
+        source={1}
+        style={undefined}
+      />
+      <View
+        style={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          EXPIRE
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          disabled={false}
+          ellipsizeMode="tail"
+          style={undefined}
+        >
+          AT END
+        </Text>
+      </View>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        disabled={false}
+        ellipsizeMode="tail"
+        style={undefined}
+      >
+        
+        /
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

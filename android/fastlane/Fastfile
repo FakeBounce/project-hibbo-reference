@@ -1,0 +1,49 @@
+# Customise this file, documentation can be found here:
+# https://github.com/fastlane/fastlane/tree/master/fastlane/docs
+# All available actions: https://docs.fastlane.tools/actions
+# can also be listed using the `fastlane actions` command
+
+# Change the syntax highlighting to Ruby
+# All lines starting with a # are ignored when running `fastlane`
+
+# If you want to automatically update fastlane if a new version is available:
+# update_fastlane
+
+# This is the minimum version number required.
+# Update this, if you use features of a newer version
+fastlane_version "2.59.0"
+
+default_platform :android
+
+platform :android do
+  desc "Build on Crashlytics"
+  lane :build do
+    crashlytics(
+      api_token: "#{ENV["CRASHLYTICS_TOKEN"]}",
+      build_secret: "#{ENV["CRASHLYTICS_SECRET"]}",
+      emails: "#{ENV["TESTERS_ANDROID"]}",
+      notifications: true,
+    )
+  end
+
+  desc "Submit a new Beta Build to Crashlytics Beta"
+  lane :beta do
+    gradle(task: "assembleRelease")
+    build
+  end
+
+  error do
+    slack(
+      channel: "#monimalz_dev",
+      message: "Building error for Android",
+      success: false,
+    )
+  end
+
+  after_all do |lane|
+    slack(
+      channel: "#monimalz_dev",
+      message: "Successfully ran lane '#{lane}' for Android!",
+    )
+  end
+end

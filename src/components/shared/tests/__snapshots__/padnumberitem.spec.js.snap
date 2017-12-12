@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PadNumberItem should render the component with image and with underscore 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <Image
+      source={1}
+      style={Object {}}
+    />
+    <Image
+      source={1}
+      style={undefined}
+    />
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`PadNumberItem should render the component with image and without underscore 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <Image
+      source={1}
+      style={Object {}}
+    />
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`PadNumberItem should render the component without image and with underscore 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={undefined}
+    >
+      1
+    </Text>
+    <Image
+      source={1}
+      style={undefined}
+    />
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`PadNumberItem should render the component without image and without underscore 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hitSlop={undefined}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={Object {}}
+  testID={undefined}
+>
+  <View
+    style={
+      Array [
+        Object {},
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      disabled={false}
+      ellipsizeMode="tail"
+      style={undefined}
+    >
+      0
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <View
+      collapsable={undefined}
+      style={
+        Object {
+          "backgroundColor": "#303030",
+          "borderRadius": 70,
+          "height": 70,
+          "opacity": 0,
+          "transform": Array [
+            Object {
+              "scale": 0.4,
+            },
+          ],
+          "width": 70,
+        }
+      }
+    />
+  </View>
+</View>
+`;
